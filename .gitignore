@@ -12,6 +12,12 @@ dist
 dist-ssr
 *.local
 .env
+.firebase
+.firebaserc
+firebase.json
+postcss.config.json
+tailwind.config.js
+vite.config.js
 
 # Editor directories and files
 .vscode/*
